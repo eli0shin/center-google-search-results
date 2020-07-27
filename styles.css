@@ -1,0 +1,33 @@
+form[role='search'] {
+  display: flex !important;
+  flex-direction: row !important;
+  width: auto !important;
+  justify-content: center !important;
+}
+
+#hdtb-msb-vis {
+  margin-left: 0px !important;
+}
+
+div[role='navigation'] {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+}
+
+.A8SBwf {
+  margin-left: 250px !important;
+}
+
+.appbar {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  margin-left: -500px !important;
+}
+
+#cnt > div:nth-child(12) {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 1197px !important;
+}
