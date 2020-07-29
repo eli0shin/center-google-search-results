@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Center Google Search Results",
-  "description": "A Chrome Extension that centers the results page from google searches to enable easier viewing on wide displays.",
+  "description": "A Chrome Extension that centers the results page from google searches to enable easier viewing on ultra-wide displays.",
   "version": "1.0.0",
   "browser_action": {
     "default_icon": "icon-16.png"
